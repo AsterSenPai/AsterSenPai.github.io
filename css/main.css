@@ -1,0 +1,73 @@
+/*****************
+GENERAL
+******************/
+
+#wrapper {
+  max-width: 940px;
+  padding: 0 5%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/*****************
+HEADING
+******************/
+
+#logo {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.75em;
+}
+
+
+/*****************
+COLORS
+******************/
+
+/* site body*/
+body {
+  background-color: #fff;
+  color: #999;
+}
+
+/* nav background on mobile */
+nav {
+  background: #599a68;
+}
+
+/* green header*/
+header {
+  background: #6ab47b;
+  border-color: #599a68;
+}
+
+/* links */
+a {
+  color: #6ab47b;
+}
+
+/* logo text */
+h1, h2 {
+  color: #fff;
+}
+
+/* selected nav link */
+nav a.selected, nav a:hover {
+  color: #32673f;
+}
+
+/* for nav links */
+nav a, a:visited {
+  color: #fff;
+}
+
+
+
