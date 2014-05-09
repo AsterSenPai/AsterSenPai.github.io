@@ -32,14 +32,14 @@
       <section id="secondary">
         <h3>Contact Details</h3>
         <ul class="contact-info">
-          <li class="phone"><a href="tel:+91-9695963442">9695963442</a></li>
+          <li class="phone"><a href="tel:+91-9695963442">+91 9695963442</a></li>
           <li class="mail"><a href="mailto:kewalkris10@gmail.com">kewalkris10@gmail.com</a></li>
           <li class="twitter"><a href="http://twitter.com/intent/tweet?screen_name=kewalkris10">@kewakris10</a></li>
         </ul>
       </section>
       <footer>
-        <a href="http://twitter.com/kewalkris10"><img src="img/twitter-wrap.png" alt="Twitter Logo" class="social-icon"></a>
-        <a href="http://facebook.com/kewal.kris"><img src="img/facebook-wrap.png" alt="Facebook Logo" class="social-icon"></a>
+        <a href="http://twitter.com/kewalkris10" target=_blank><img src="img/twitter-wrap.png" alt="Twitter Logo" class="social-icon"></a>
+        <a href="http://facebook.com/kewal.kris" target=_blank><img src="img/facebook-wrap.png" alt="Facebook Logo" class="social-icon"></a>
         <p>&copy; 2014 Kewal Krishna Kharkwal.</p>
       </footer>
     </div>
